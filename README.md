@@ -6,6 +6,8 @@ Manage Microsoft Entra ID (AD) Identities and Role Assignments
 •	Create groups and add members.
 •	Implement management groups.
 •	Review and assign a built-in Azure role.
+•Create a custom RBAC role.
+• Monitor role assignments with the Activity Log.
 
 
 ## Create Entra ID Tenant
